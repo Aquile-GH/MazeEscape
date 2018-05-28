@@ -15,7 +15,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/maze1920x1032" />
+        app:srcCompat="@drawable/maze1920x1080" />
 
     <Button
         android:id="@+id/button"
