@@ -36,13 +36,13 @@ public abstract class GameBoardView extends View implements Observer {
 	private boolean fixedGrid = true;
 
 	/** Number of tiles in X-direction. */ 
-	private int tileCountX = 10;
+	private int tileCountX = 14;
 
 	/** Number of tiles in Y-direction. */ 
-	private int tileCountY = 10;
+	private int tileCountY = 12;
 
 	/** Size (in pixels) of the tiles. */
-	private int mTileSize = 20;
+	private int mTileSize = 32;
 
 	/** There is a border around the tile grid. This is the border size in pixels in 
 	 * the X-direction. */
